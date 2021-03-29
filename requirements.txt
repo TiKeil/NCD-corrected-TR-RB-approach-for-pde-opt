@@ -62,7 +62,7 @@ py==1.8.1
 pyamg==4.0.0
 pybind11==2.5.0
 pyevtk==1.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 pygmsh==6.0.2
 PyOpenGL==3.1.5
 pyparsing==2.4.7
