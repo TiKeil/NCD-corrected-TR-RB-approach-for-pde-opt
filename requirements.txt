@@ -51,6 +51,7 @@ numpy==1.18.3
 packaging==20.3
 pandocfilters==1.4.2
 parso==0.7.0
+./pdeopt
 pexpect==4.8.0
 pickleshare==0.7.5
 pillow
@@ -76,6 +77,7 @@ pythreejs==2.2.0
 pytz==2020.1
 PyYAML==5.3.1
 pyzmq==19.0.0
+./pymor
 Qt.py==1.2.5
 requests==2.23.0
 scipy==1.4.1
